@@ -1,0 +1,4 @@
+/home/echo/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/echo/car_pedestrian_line_detection
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/echo/car_pedestrian_line_detection/cmake-build-debug
